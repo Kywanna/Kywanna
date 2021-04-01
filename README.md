@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile; here you'll find projects that I've created and worked on.
 
 <!--
 **Kywanna/Kywanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
